@@ -1,13 +1,6 @@
 # NCKU Signals and Systems - Homework Archive
 
-Coursework archive for **Signals and Systems** at National Cheng Kung University (NCKU).
-
-| Item | Value |
-| --- | --- |
-| Student ID | F74122048 |
-| Student | 陳柏亘 |
-| Course | 訊號與系統 (Signals and Systems) |
-| Archive scope | Homework 1 through Homework 6 |
+Coursework archive for **Signals and Systems** at National Cheng Kung University.
 
 ## Contents
 
